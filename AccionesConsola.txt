@@ -1,3 +1,6 @@
 git add AccionesConsola.txt
 git commit --M "Commit Inicial"
 git commit --m "Agregados Commits a txt"
+git log --oneline
+//subo repo a GitHub
+git remote add origin https://github.com/Nahuel-Melis/CapacitacionGIT.git
